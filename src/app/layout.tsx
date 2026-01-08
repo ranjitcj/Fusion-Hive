@@ -5,7 +5,7 @@ import AuthProvider from "@/context/AuthProvider";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "One Campus",
+  title: "Fusion-Hive",
   description: "Created By Team Vikram",
 };
 

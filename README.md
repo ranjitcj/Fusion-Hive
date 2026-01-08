@@ -1,12 +1,12 @@
 ![](.github/screenshots/poster.png)
 
 <p align="center">
-    <h1 align="center">One Campus: Streamlining College Life</h1>
+    <h1 align="center">Fusion-Hive: Streamlining College Life</h1>
 </p>
 
 ## A Unified Platform for Attendance, Library, and Campus Updates
 
-One Campus is an all-in-one web application designed to simplify campus management for students and teachers alike. From marking attendance with a single tap to tracking library due dates with live data from Koha’s MySQL database, this project brings efficiency and clarity to college workflows. Built with a modern tech stack including Next.js, TypeScript, MongoDB, and Google App Script, One Campus provides a clean, accessible interface for attendance tracking, student data insights, library notifications, and campus-wide posting—without the mess of traditional social media.
+Fusion-Hive is an all-in-one web application designed to simplify campus management for students and teachers alike. From marking attendance with a single tap to tracking library due dates with live data from Koha’s MySQL database, this project brings efficiency and clarity to college workflows. Built with a modern tech stack including Next.js, TypeScript, MongoDB, and Google App Script, Fusion-Hive provides a clean, accessible interface for attendance tracking, student data insights, library notifications, and campus-wide posting—without the mess of traditional social media.
 
 ### Built with
 
@@ -38,12 +38,12 @@ One Campus is an all-in-one web application designed to simplify campus manageme
 
 ### Installation and Usage (For Contributors)
 
-Want to improve One Campus? Here’s how to get started:
+Want to improve Fusion-Hive? Here’s how to get started:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ranjitcj/One-Campus.git
-   cd One-Campus
+   git clone https://github.com/ranjitcj/Fusion-Hive.git
+   cd Fusion-Hive
    ```
 2. **Install Dependencies**:
    ```bash
@@ -76,7 +76,7 @@ Want to improve One Campus? Here’s how to get started:
 
 ### Contributor Expectations
 
-We’d love your help to make One Campus even better! Here’s how to contribute:
+We’d love your help to make Fusion-Hive even better! Here’s how to contribute:
 
 - **Issues**: Report bugs or suggest features by creating an issue in the GitHub issue queue.
 - **Pull Requests**: Submit fixes or enhancements via pull requests.
@@ -93,4 +93,4 @@ We’d love your help to make One Campus even better! Here’s how to contribute
 
 **Tech Stack**: TypeScript, TSX, Next.js, MongoDB, React, Google App Script, Google Drive, Excel, Koha, MySQL
 
-Check out the repo: [https://github.com/ranjitcj/One-Campus](https://github.com/ranjitcj/One-Campus)
+Check out the repo: [https://github.com/ranjitcj/Fusion-Hive](https://github.com/ranjitcj/Fusion-Hive)

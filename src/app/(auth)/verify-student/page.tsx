@@ -92,9 +92,9 @@ export default function VerifyStudent() {
       <div className="w-full max-w-md p-8 space-y-8 rounded-lg shadow-md border">
         <div className="text-center">
           <div className="flex items-center justify-center space-x-4">
-            <Image src={logo} width={100} height={100} alt="One Campus Logo" />
+            <Image src={logo} width={100} height={100} alt="Fusion-Hive Logo" />
             <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl">
-              One Campus
+              Fusion-Hive
             </h1>
           </div>
         </div>

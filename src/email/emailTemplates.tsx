@@ -19,7 +19,7 @@ export const VERIFICATION_EMAIL_TEMPLATE = `
     <p>Enter this code on the verification page to complete your registration.</p>
     <p>This code will expire in 15 minutes for security reasons.</p>
     <p>If you didn't create an account with us, please ignore this email.</p>
-    <p>Best regards,<br>One Campus</p>
+    <p>Best regards,<br>Fusion-Hive</p>
   </div>
   <div style="text-align: center; margin-top: 20px; color: #000; font-size: 0.8em; border-top: 1px solid #000; padding-top: 10px;">
     <p>This is an automated message, please do not reply to this email.</p>
@@ -48,7 +48,7 @@ export const PASSWORD_RESET_REQUEST_TEMPLATE = `
       <a href="{resetURL}" style="background-color: #000; color: #fff; padding: 12px 20px; text-decoration: none; border: 1px solid #000; font-weight: bold;">Reset Password</a>
     </div>
     <p>This link will expire in 1 hour for security reasons.</p>
-    <p>Best regards,<br>One Campus</p>
+    <p>Best regards,<br>Fusion-Hive</p>
   </div>
   <div style="text-align: center; margin-top: 20px; color: #000; font-size: 0.8em; border-top: 1px solid #000; padding-top: 10px;">
     <p>This is an automated message, please do not reply to this email.</p>

@@ -15,7 +15,7 @@ export const sendVerificationEmail = async (
       "https://api.brevo.com/v3/smtp/email",
       {
         sender: {
-          name: "One Campus",
+          name: "Fusion-Hive",
           email: "teamvikram4u@gmail.com",
         },
         to: [{ email }],
@@ -59,7 +59,7 @@ export const sendPasswordResetEmail = async (
       "https://api.brevo.com/v3/smtp/email",
       {
         sender: {
-          name: "One Campus",
+          name: "Fusion-Hive",
           email: "teamvikram4u@gmail.com",
         },
         to: [{ email }],

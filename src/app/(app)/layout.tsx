@@ -5,7 +5,7 @@ import { SiteHeader } from "@/components/site-header";
 import { SidebarProvider, SidebarInset } from "@/components/ui/sidebar";
 
 export const metadata: Metadata = {
-  title: "One Campus",
+  title: "Fusion-Hive",
   description: "Created By Team Vikram",
 };
 

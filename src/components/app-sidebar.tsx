@@ -153,7 +153,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
                   <Command className="size-4" />
                 </div>
                 <div className="grid flex-1 text-left text-sm leading-tight">
-                  <span className="truncate font-semibold">One Campus</span>{" "}
+                  <span className="truncate font-semibold">Fusion-Hive</span>{" "}
                   <span className="truncate text-xs">TSSM BSCOER NARHE</span>
                 </div>
                 <ModeToggle />
